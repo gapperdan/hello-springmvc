@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hello_springmvc">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/hello_springmvc</output-path>
+    <root id="archive" name="hello_springmvc.war">
+      <element id="javaee-facet-resources" facet="hello_springmvc/web/Web Gradle" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hello_springmvc" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: commons-logging-1.1.1" />
+          <element id="library" level="project" name="Gradle: aopalliance-1.0" />
+          <element id="library" level="project" name="Gradle: spring-core-3.2.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-web-3.2.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-webmvc-3.2.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-beans-3.2.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-aop-3.2.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-expression-3.2.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-context-3.2.6.RELEASE" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/classes/artifacts/hello_springmvc/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
