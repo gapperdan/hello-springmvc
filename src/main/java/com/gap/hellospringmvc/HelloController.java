@@ -1,10 +1,13 @@
 package com.gap.hellospringmvc;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+
+import com.gap.hellospringmvc.Person;
 
 @Controller
 @RequestMapping("/hello")
@@ -24,9 +27,15 @@ public class HelloController {
     }
 
     @RequestMapping(value="/goodbye", method = RequestMethod.GET)
-    public String printWelcome(ModelMap model) {
+    public String printGoodbye(ModelMap model) {
         model.addAttribute("message", "Goodbye");
         return "goodbye";
+    }
+
+    @RequestMapping(value="/form", method=RequestMethod.GET)
+    public String loadFormPage(Model m) {
+        m.addAttribute("person", new Person());
+        return "form";
     }
 
 }

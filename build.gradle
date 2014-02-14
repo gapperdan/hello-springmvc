@@ -2,6 +2,10 @@ apply plugin: 'idea'
 apply plugin: 'java'
 apply plugin: 'tomcat'
 apply plugin: 'war'
+apply plugin: 'jetty'
+
+jettyRun.httpPort = 9080
+tomcatRun.httpPort = 8080
 
 repositories {
     mavenCentral()

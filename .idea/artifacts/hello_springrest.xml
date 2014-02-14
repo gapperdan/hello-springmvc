@@ -1,8 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="hello_springrest">
     <output-path>$PROJECT_DIR$/build/classes/artifacts/hello_springrest</output-path>
-    <root id="archive" name="hello_springrest.war">
-      <element id="javaee-facet-resources" facet="hello_springrest/web/Web Gradle" />
+    <root id="archive" name="hello_springmvc.war">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="hello_springrest" />
