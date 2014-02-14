@@ -38,4 +38,11 @@ public class HelloController {
         return "form";
     }
 
+    @RequestMapping(value="/result", method=RequestMethod.POST)
+    public String showResultPage(Person person, Model m) {
+        System.out.println("in result!");
+        m.addAttribute("name", person.getName());
+        return "result";
+    }
+
 }
