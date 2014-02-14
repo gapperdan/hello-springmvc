@@ -40,8 +40,8 @@ public class HelloController {
 
     @RequestMapping(value="/result", method=RequestMethod.POST)
     public String showResultPage(Person person, Model m) {
-        System.out.println("in result!");
         m.addAttribute("name", person.getName());
+        m.addAttribute("email", person.getEmail());
         return "result";
     }
 

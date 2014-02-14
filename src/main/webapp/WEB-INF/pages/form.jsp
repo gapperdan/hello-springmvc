@@ -8,6 +8,9 @@
     <div>
         <label for="nameInput">Name: </label>
         <form:input path="name" id="nameInput" />
+        <br />
+        <label for="emailInput">Email: </label>
+        <form:input path="email" id="emailInput" />
     </div>
     <div>
         <input type="submit" value="Submit" />
