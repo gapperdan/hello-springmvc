@@ -17,5 +17,8 @@ http://localhost:8080/hello_springmvc/hello?name=bob
 Goodbye page:
 http://localhost:8080/hello_springmvc/hello/goodbye
 
+Form sample page:
+http://localhost:8080/hello_springmvc/hello/form ==> submits to "/result" (in HelloController)
+
 Some notes on the context-root i.e. /hello_springmvc in the url:
 1. The context-root defaults to the WAR file name (in IDEA, Open Module Settings (F4) > Artifacts).
