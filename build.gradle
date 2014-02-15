@@ -4,8 +4,15 @@ apply plugin: 'tomcat'
 apply plugin: 'war'
 apply plugin: 'jetty'
 
-jettyRun.httpPort = 9080
-tomcatRun.httpPort = 8080
+jettyRun {
+	httpPort = 9080
+	contextPath = "hello-springmvc"
+}
+
+tomcatRun {
+    httpPort = 8080
+    contextPath = "/hello-springmvc"
+}
 
 repositories {
     mavenCentral()

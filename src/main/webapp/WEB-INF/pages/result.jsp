@@ -10,7 +10,7 @@
     I will email you at: ${email}
 </div>
 <div>
-    <a href="/hello_springmvc/hello/form">Return to form</a>
+    <a href="/hello-springmvc/hello/form">Return to form</a>
 </div>
 </body>
 </html>
