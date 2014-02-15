@@ -3,8 +3,8 @@ hello-springmvc
 Spring MVC Tutorial with IntelliJ IDEA, Gradle with tomcat-plugin
 
 To run locally:
-./gradlew tomcatRun ==> to start tomcat with app deployed **** seems to be buggy, not reliable
-./gradlew jettyRun ==> to start jetty with app deployed *** use this, seems to be more stable
+./gradlew tomcatRun ==> to start tomcat with app deployed
+./gradlew jettyRun ==> to start jetty with app deployed
 
 If using jettyRun, use port: 9080 instead.
 
