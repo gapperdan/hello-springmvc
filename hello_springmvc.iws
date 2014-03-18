@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3682b3c-a4d1-4026-8bcb-896e08a0faa4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello-springmvc.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello_springmvc.ipr" afterPath="$PROJECT_DIR$/hello_springmvc.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello_springmvc.iws" afterPath="$PROJECT_DIR$/hello_springmvc.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="hello_springmvc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,7 +96,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="474" selection-end="522" vertical-scroll-proportion="0.80213904" vertical-offset="0" max-vertical-offset="585">
+            <state line="26" column="1" selection-start="892" selection-end="892" vertical-scroll-proportion="0.6791444" vertical-offset="136" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -148,7 +144,7 @@
       <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="30" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+            <state line="15" column="30" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -406,6 +402,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -649,12 +646,12 @@
       <created>1392156331762</created>
       <updated>1392156331762</updated>
       <workItem from="1392156332402" duration="36000" />
-      <workItem from="1395115097839" duration="1023000" />
+      <workItem from="1395115097839" duration="1534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1059000" />
+    <option name="totallyTimeSpent" value="1570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="742" extended-state="6" />
@@ -709,13 +706,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="424">
@@ -765,9 +755,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="30" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="474" selection-end="522" vertical-scroll-proportion="0.80213904" vertical-offset="0" max-vertical-offset="585">
+        <state line="26" column="1" selection-start="892" selection-end="892" vertical-scroll-proportion="0.6791444" vertical-offset="136" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
