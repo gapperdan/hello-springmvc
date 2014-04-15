@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3682b3c-a4d1-4026-8bcb-896e08a0faa4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hello_springmvc.iws" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello-springmvc.ipr" afterPath="$PROJECT_DIR$/hello-springmvc.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello-springmvc.iws" afterPath="$PROJECT_DIR$/hello-springmvc.iws" />
-    </list>
+    <list default="true" id="f3682b3c-a4d1-4026-8bcb-896e08a0faa4" name="Default" comment="" />
     <ignored path="hello_springmvc.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -782,12 +778,12 @@
       <workItem from="1395286090029" duration="208000" />
       <workItem from="1396828910539" duration="1892000" />
       <workItem from="1397591084010" duration="1363000" />
-      <workItem from="1397593065005" duration="614000" />
+      <workItem from="1397593065005" duration="812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5758000" />
+    <option name="totallyTimeSpent" value="5956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="742" extended-state="6" />
