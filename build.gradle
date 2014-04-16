@@ -6,7 +6,7 @@ apply plugin: 'jetty'
 
 jettyRun {
 	httpPort = 9080
-	contextPath = "hello-springmvc"
+	contextPath = "/hello-springmvc"
 }
 
 tomcatRun {
