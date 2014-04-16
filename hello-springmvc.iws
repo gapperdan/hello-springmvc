@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3682b3c-a4d1-4026-8bcb-896e08a0faa4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello-springmvc.iml" afterPath="$PROJECT_DIR$/hello-springmvc.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello-springmvc.iws" afterPath="$PROJECT_DIR$/hello-springmvc.iws" />
     </list>
     <ignored path="hello_springmvc.iws" />
@@ -827,16 +825,16 @@
       <workItem from="1395286090029" duration="208000" />
       <workItem from="1396828910539" duration="1892000" />
       <workItem from="1397591084010" duration="1363000" />
-      <workItem from="1397593065005" duration="5863000" />
+      <workItem from="1397593065005" duration="6095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11007000" />
+    <option name="totallyTimeSpent" value="11239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="742" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
