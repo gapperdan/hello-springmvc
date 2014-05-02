@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3682b3c-a4d1-4026-8bcb-896e08a0faa4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/gap/hellospringmvc/HelloController.java" afterPath="$PROJECT_DIR$/src/main/java/com/gap/hellospringmvc/HelloController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello-springmvc.iml" afterPath="$PROJECT_DIR$/hello-springmvc.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello-springmvc.iws" afterPath="$PROJECT_DIR$/hello-springmvc.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
     </list>
     <ignored path="hello_springmvc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -891,12 +887,12 @@
       <workItem from="1397684963512" duration="548000" />
       <workItem from="1398829585214" duration="1708000" />
       <workItem from="1399004150178" duration="110000" />
-      <workItem from="1399004288096" duration="1624000" />
+      <workItem from="1399004288096" duration="1701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18596000" />
+    <option name="totallyTimeSpent" value="18673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="742" extended-state="6" />
