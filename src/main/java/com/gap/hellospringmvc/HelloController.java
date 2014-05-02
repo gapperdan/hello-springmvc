@@ -1,5 +1,8 @@
 package com.gap.hellospringmvc;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;
@@ -10,8 +13,12 @@ import org.springframework.web.bind.annotation.RequestParam;
 import com.gap.hellospringmvc.Person;
 
 @Controller
+@Configuration
 @RequestMapping("/hello")
 public class HelloController {
+
+    @Value("${default.message}")
+    private String defaultMessage;
 
     @RequestMapping(method = RequestMethod.GET)
     public String printWelcome(@RequestParam(value = "name", required = false, defaultValue = "stranger") String name, ModelMap model) {
@@ -21,7 +28,7 @@ public class HelloController {
         This works only because the parameter name and the variable name happen to be the same; if they are not, then use the
         @RequestParam annotation.
     */
-        model.addAttribute("message", "Spring 3 MVC Hello World");
+        model.addAttribute("message", defaultMessage);
         model.addAttribute("name", name);
         return "hello";
     }
