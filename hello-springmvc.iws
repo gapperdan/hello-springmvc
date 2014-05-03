@@ -86,25 +86,25 @@
       <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="74" selection-start="1032" selection-end="1032" vertical-scroll-proportion="-12.0" vertical-offset="30" max-vertical-offset="465">
+            <state line="22" column="32" selection-start="982" selection-end="990" vertical-scroll-proportion="-9.08" vertical-offset="103" max-vertical-offset="465">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloController.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="HelloController.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gap/hellospringmvc/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="52" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="765">
+            <state line="19" column="9" selection-start="663" selection-end="663" vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+            <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <folding />
             </state>
           </provider>
@@ -887,12 +887,12 @@
       <workItem from="1397684963512" duration="548000" />
       <workItem from="1398829585214" duration="1708000" />
       <workItem from="1399004150178" duration="110000" />
-      <workItem from="1399004288096" duration="1701000" />
+      <workItem from="1399004288096" duration="3684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18673000" />
+    <option name="totallyTimeSpent" value="20656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="742" extended-state="6" />
@@ -1294,23 +1294,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="74" selection-start="1032" selection-end="1032" vertical-scroll-proportion="-12.0" vertical-offset="30" max-vertical-offset="465">
+        <state line="22" column="32" selection-start="982" selection-end="990" vertical-scroll-proportion="-9.08" vertical-offset="103" max-vertical-offset="465">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gap/hellospringmvc/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="52" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+        <state line="19" column="9" selection-start="663" selection-end="663" vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
